@@ -8,15 +8,18 @@
 </head>
 <body>
     <script>
-    var CommonCtrl = function() {
-
+    var CommonCtrl = function(name) {
+        this.name = name;
     };
 
     CommonCtrl.prototype = {
-
+        age : 31,
+        job : 'UI Developer'
     };
 
-    var _commonctrl = new CommonCtrl();
+    var _commonctrl = new CommonCtrl('kim');
+    console.log(_commonctrl.name);
+    console.log(_commonctrl.job);
     </script>
 </body>
 </html>
