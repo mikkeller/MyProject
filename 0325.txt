@@ -32,10 +32,31 @@ Leaders: Why -> How -> What
 The Rest of Us -> What -> How -> Why
 
 
+프론트엔드 개발자의 기술(아키텍쳐)
+디자인
+개발
+테스트
+빌드
+배포
 
 
-Github 코드리뷰
+회사에서 원하는 것?
+Know-why
+Know-what
+Know-where
+
+
+Github 코드리뷰 하면서 실력 쌓아보자.
+
+
+
+p.s
 
 Facebook: 프론트엔드개발그룹
 
 트릴리어네어(최근 지원 받고있는 회사)
+
+
+
+
+
