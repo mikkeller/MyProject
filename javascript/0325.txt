@@ -48,8 +48,6 @@ Know-where
 
 Github 코드리뷰 하면서 실력 쌓아보자.
 
-
-
 p.s
 
 Facebook: 프론트엔드개발그룹
