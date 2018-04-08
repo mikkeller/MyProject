@@ -1,4 +1,4 @@
-Impossible, it is a vindication which does not endeavor.
+Impossible, it is a vindication which does not endeavor!
 
 Why?(왜 개발자가 되고 싶은 거야?)
 
