@@ -1,0 +1,79 @@
+<DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="utf-8">
+    <title>JavaScript 3회차_함수과제 풀이 2,3,4번</title>
+    <script>
+    // 과제2) 함수자체가 값으로도 사용될 수 있다는 예
+    function sum(a) {
+        return function (b) {
+            return a + b; 
+        }
+    }
+    var f1 = sum(25); //f1(10); 을 한다면 35가 반환되겠지
+    var f2 = sum(55);
+    var f3 = sum(15);
+    //sum(1)(2);
+
+    // 과제3)
+    function typeToKor(type) {
+        //아래와 같이 풀었는데 function, undefined까지 해결할 수 있게 만들어야 해..
+        //ES6에서는 심볼이라는 타입도 추가되었으므로, 코드는 브라우저가 업데이트되더라도 자동으로 반환할 수 있도록 생각하고 작성
+        /*if(typeof type === 'string') {
+            return '문자';
+        }
+        if(typeof type === 'number') {
+            return '숫자';
+        }
+        if(typeof type === 'boolean') {
+            return '참거짓';
+        }
+        if(typeof type === 'object') {
+            return '객체';
+        }*/
+
+        var types = {
+            number : '숫자',
+            string : '문자',
+            boolean : '참거짓',
+            function : '함수',
+            object : '객체',
+            undefined : '없어'
+        };
+
+        return types[typeof type];
+    }
+
+    // 과제4)
+    function biggest(a, b, c, d) {
+        /*var result;
+        result = a > b ? a : b;
+        result = c > result ? c : result;
+        result = d > result ? d : result;
+        return result;*/
+        
+        //for문으로 돌리면 되겠지만 아직 for은 안배워서 for는 빼고 적용하였다.
+        var max = a;
+        if (max < b) {
+            max = b;
+        }
+        if (max < c) {
+            max = c;
+        }
+        if (max < d) {
+            max = d;
+        }
+    }
+    function a(max) {
+        var result = [];
+        while (max--) {
+            result.push(Matf.floor(Math.random() * 1000) + 1);
+        }
+        return result.join(', ');
+    }
+    </script>
+</head>
+<body>
+
+</body>
+</html>
