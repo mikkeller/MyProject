@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="deb4b912-5b9f-48f5-916f-8e9613a1704c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/babel_webpack/7-1day/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/babel_webpack/7-1day/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/babel_webpack/7-1day/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/babel_webpack/7-1day/Readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -1496,16 +1494,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527509585079</updated>
-      <workItem from="1527509586631" duration="817000" />
+      <workItem from="1527509586631" duration="1044000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="817000" />
+    <option name="totallyTimeSpent" value="1044000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="71" y="120" width="1849" height="1178" extended-state="0" />
-    <editor active="true" />
+    <frame x="66" y="26" width="1849" height="1178" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
