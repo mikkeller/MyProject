@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="deb4b912-5b9f-48f5-916f-8e9613a1704c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/babel_webpack/7-1day/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/babel_webpack/7-1day/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_study/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_study/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/babel_webpack/7-1day/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/babel_webpack/7-1day/Readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -1408,8 +1408,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="62" />
-    <option name="y" value="66" />
+    <option name="x" value="71" />
+    <option name="y" value="120" />
     <option name="width" value="1849" />
     <option name="height" value="1178" />
   </component>
@@ -1486,6 +1486,9 @@
       <listeners />
     </configuration>
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="deb4b912-5b9f-48f5-916f-8e9613a1704c" name="Default" comment="" />
@@ -1493,15 +1496,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527509585079</updated>
-      <workItem from="1527509586631" duration="255000" />
+      <workItem from="1527509586631" duration="817000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="255000" />
+    <option name="totallyTimeSpent" value="817000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="62" y="66" width="1849" height="1178" extended-state="0" />
+    <frame x="71" y="120" width="1849" height="1178" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
