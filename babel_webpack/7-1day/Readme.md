@@ -6,21 +6,21 @@
 
 Next) Package.json 에서 build 명령어 추가한다.<br>
 
-"scripts": {
-  "build": "babel src --out-dir lib", //src folder에 있는 내용을 lib folder로 빼내겠다는 뜻
-  "test": "echo \"Error: no test specified\" && exit 1"
+"scripts": {<br>
+  "build": "babel src --out-dir lib", //src folder에 있는 내용을 lib folder로 빼내겠다는 뜻<br>
+  "test": "echo \"Error: no test specified\" && exit 1"<br>
 }
 
 터미널에서 npm run build 하면 해당 명령어 실행이 된다.
 
 Next) 터미널에서 npm i  -D babel-preset-env 설치한다. balbel과 함께 설치해줘야 한다.<br>
-folder의 root에 .babelrc 라는 파일을 하나 생성해준다.
+folder의 root에 .babelrc 라는 파일을 하나 생성해준다.<br>
 .babelrc의 내용은 하기 처럼 타이핑 해준다.
 
-{
-  "presets": [
-    ["env"]
-  ]
+{<br>
+  "presets": [<br>
+    ["env"]<br>
+  ]<br>
 }
 
 .babelrc 에 내용 작성 후 터미널에서 npm run build 쳐보자.
