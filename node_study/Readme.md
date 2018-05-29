@@ -20,4 +20,5 @@ node 'file name'으로 터미널에서 계속 타이핑을 해줘야 반영이 �
 2. nodemon .src/server.js (자신이 서버를 만든 js file 경로에 맞게 설정)
 3. nodemon 셋팅해주면 저장할 때 마다 서버 껐다켰다 할 필요없이 사용 가능
 
+
 Tip. 터미널에서 ifconfig 로 자신의 localhost number ip 확인 가능
