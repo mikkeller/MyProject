@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="deb4b912-5b9f-48f5-916f-8e9613a1704c" name="Default" comment="" />
+    <list default="true" id="deb4b912-5b9f-48f5-916f-8e9613a1704c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/node_study/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_study/Readme.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -1492,12 +1494,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527509585079</updated>
-      <workItem from="1527509586631" duration="1542000" />
+      <workItem from="1527509586631" duration="2043000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1542000" />
+    <option name="totallyTimeSpent" value="2043000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="66" y="26" width="1849" height="1178" extended-state="6" />
