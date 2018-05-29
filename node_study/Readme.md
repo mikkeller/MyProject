@@ -1,14 +1,14 @@
 # 6day - node
 
-### directory check
+## directory check
 - mac: ls
 - window: dir
 ***
-### directory in/out
+## directory in/out
 - directory 안으로: cd directory
 - directory 밖으로: cd ..
 ***
-### package.json add
+## package.json add
 Node js는 package.json이 있고, 아래 방법으로 터미널에서 생성한다.<br>
 package.json add 해보자
 - npm init
