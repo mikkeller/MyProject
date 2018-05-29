@@ -1406,10 +1406,10 @@
       <path value="$PROJECT_DIR$/node_study/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="101" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="74" />
     <option name="y" value="22" />
-    <option name="width" value="1849" />
+    <option name="width" value="1846" />
     <option name="height" value="1178" />
   </component>
   <component name="ProjectView">
