@@ -22,7 +22,7 @@ module.exports = {
 };
 ````
 ***
-## babel까지
-- npm i -D babel-loader. 로 바벨로더 설치해주자
+## babel add
+- npm i -D babel-loader (바벨로더 설치)
 
 Tip. 작업 소스 -> 컴파일(웹팩 <-> 바벨) -> 빌드된 소스(배포용 소스) -> 실서버 배포(브라우저)
