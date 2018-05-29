@@ -20,7 +20,8 @@ module.exports = {
         }]
     }
 };
-
+````
+***
 ## babel까지
 - npm i -D babel-loader. 로 바벨로더 설치해주자
 
