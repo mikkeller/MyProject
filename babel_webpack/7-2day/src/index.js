@@ -108,4 +108,4 @@ f1.work();
 f1.eat({name: '사과'});
 f1.eat({name: '사과'});
 f1.eat({name: '사과'});
-console.log(f1);
+console.log(f1); //
