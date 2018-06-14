@@ -2,7 +2,8 @@
 
 ## Babel install
 - npm install --save-dev babel babel-cli (babel 설치)
-- npm i -D  babel babel-cli (위 내용과 똑같은 명령어의 약자)
+- npm i -D babel babel-cli (위 내용과 똑같은 명령어의 약자)
+- npm i -D babel-preset-env
 ***
 ### Next Step) package.json 에서 build 명령어 추가한다
 - "scripts": {
