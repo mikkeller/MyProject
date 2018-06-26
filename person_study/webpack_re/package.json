@@ -1,0 +1,24 @@
+{
+  "name": "webpack_re",
+  "version": "1.0.0",
+  "description": "* npm init -y 로 package.json 만들고 시작",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack --mode=development --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.7.0",
+    "webpack": "^4.12.1",
+    "webpack-cli": "^3.0.8"
+  },
+  "dependencies": {
+    "npm": "^6.1.0"
+  }
+}
